@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Contar pares",
+      "setup": "npm install",
+      "run": "npm run test contarPares.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "Obtener suma",
+      "setup": "",
+      "run": "npm run test obtenerSuma.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "Obtener resultado",
+      "setup": "",
+      "run": "npm run test obtenerResultado.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 40
+    }
+  ]
+}
